@@ -1,0 +1,1 @@
+# Offline-PDF-Assistant-Ask-Questions-to-Your-Documents-Locally-
