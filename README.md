@@ -64,9 +64,7 @@ Bash
 python -m venv venv
 .\venv\Scripts\activate
 
-# On macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
+
 4. Install Dependencies
 This project requires several packages. Create a file named requirements.txt and add the following:
 
