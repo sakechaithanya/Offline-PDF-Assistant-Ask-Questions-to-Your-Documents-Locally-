@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+PyPDF2
+langchain>=0.1.0,<0.3.0
+faiss-cpu>=1.8.0
+sentence-transformers
+huggingface_hub>=0.23.0
+openai
