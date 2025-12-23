@@ -1,4 +1,4 @@
-# Offline PDF Assistant: Ask Questions to Your Document (Locally)
+# Offline Document Question Answering System (RAG with Qwen & FLAN-T5)(GitHub Link)
 This is a Streamlit application that allows you to chat with your PDF document completely offline. It uses a local large language model (LLM) and an on-device vector database to answer your questions based on the document's content.
 
 Your data never leaves your machine. All processing, from text extraction to embedding and language model inference, is done locally.
